@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshalexis&show_icons=true&locale=en&layout=compact" alt="joshalexis" /></p>
 
-<a href="https://app.daily.dev/JoshAlexis"><img src="https://api.daily.dev/devcards/5bdb44ae960f44e0aa0b72d3094a7e2d.png?r=fjv" width="400" alt="Joshyel Alexis's Dev Card"/></a>
+<a href="https://app.daily.dev/JoshAlexis"><img src="https://github.com/JoshAlexis/JoshAlexis/blob/main/devcard.svg" width="400" alt="Joshyel Alexis's Dev Card"/></a>
