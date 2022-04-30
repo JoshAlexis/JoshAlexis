@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshalexis&label=Profile%20views&color=0e75b6&style=flat" alt="joshalexis" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Docker Swarm and GKE**
+- 🌱 I’m currently learning **Typescript and NextJS**
 
 - 💬 Ask me about **Anime and manga**
 
